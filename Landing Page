@@ -443,3 +443,5 @@ git status --porcelain
 # Fazer commit
 echo "💾 Fazendo commit..."
 git commit -m "fix: Resolve erro ENOENT - Adiciona estrutura React completa
+chmod +x fix_engageflow_vercel.sh
+./fix_engageflow_vercel.sh
