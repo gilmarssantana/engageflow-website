@@ -2,3 +2,4 @@ git clone https://github.com/gilmarssantana/engageflow-site.git
 cd engageflow-site
 git checkout -b backup-$(date +%Y%m%d)
 git push -u origin backup-$(date +%Y%m%d)
+git checkout main
